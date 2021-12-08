@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB4080258c9a681cA4aC7B8Fc6EaD7d75653397D2",
+  "SCAN_LINK": "https://explorer.fuse.io/address/0xB4080258c9a681cA4aC7B8Fc6EaD7d75653397D2",
+  "NETWORK": {
+    "NAME": "Fuse Network",
+    "SYMBOL": "FUSE",
+    "ID": 122
+  },
+  "NFT_NAME": "Susuwatari",
+  "SYMBOL": "SUSU",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 22000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
